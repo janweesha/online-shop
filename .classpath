@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springIoc/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springIoc/spring-beans-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springIoc/spring-context-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springIoc/spring-core-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springIoc/spring-expression-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springJdbc/spring-jdbc-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springJdbc/spring-tx-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/mysqlConnector/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springWeb/spring-web-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springWeb/spring-webmvc-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/c3p0/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springAop/aopalliance.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springAop/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springAop/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springAop/spring-aop-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springAop/spring-aspects-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/javamail/activation.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/javamail/mail.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springExtends/commons-fileupload-1.3.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springExtends/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/json/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/json/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/redis/commons-pool2-2.6.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/redis/jedis-2.7.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/springExtends/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/json/fastjson-1.2.51.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/json/druid-1.1.12.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
